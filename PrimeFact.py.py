@@ -1,3 +1,4 @@
+#Meaning of prime factors => any given number we are interested in its prime factors until we reach end
 list_of_prime_facts = []
 divisor = 2
 def prime_fact(num,divisor):
