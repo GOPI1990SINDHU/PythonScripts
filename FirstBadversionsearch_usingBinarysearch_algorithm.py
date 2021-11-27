@@ -6,7 +6,7 @@ class Solution(object):
         """
         start = 1
         end = n
-        While start < end:
+        while start < end:
             mid = (start + end) // 2
             if (isBadVersion(mid)):
                 end = mid
